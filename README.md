@@ -7,7 +7,7 @@ Install [octoplasm.plasmoid](/octoplasm.plasmoid) through "Install widget from f
 Any feedback is greatly appreciated.
 
 ![](/screenshots/1.jpg?raw=true)
-![](/screenshots/2.jpg?raw=true)
-![](/screenshots/3.jpg?raw=true)
-![](/screenshots/4.jpg?raw=true)
-![](/screenshots/5.jpg?raw=true)
+![](/screenshots/2.png?raw=true)
+![](/screenshots/3.png?raw=true)
+![](/screenshots/4.png?raw=true)
+![](/screenshots/5.png?raw=true)
