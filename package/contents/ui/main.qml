@@ -72,7 +72,7 @@ Item {
                 main.tempba = parseFloat(d.temperature.bed.actual).toFixed();
                 main.tempbt = parseFloat(d.temperature.bed.target).toFixed();}
                 }
-            if (rq=="priner/chamber"){
+            if (rq=="printer/chamber"){
                 main.tempca = parseFloat(d.chamber.actual).toFixed();
                 main.tempct = parseFloat(d.chamber.target).toFixed();}
            
